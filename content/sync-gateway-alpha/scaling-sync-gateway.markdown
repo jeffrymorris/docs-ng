@@ -1,0 +1,1 @@
+# Scaling Sync Gateway
