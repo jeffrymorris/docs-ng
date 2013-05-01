@@ -1,1 +1,0 @@
-# Pattern: State Machine

@@ -1,1 +1,0 @@
-# Sync REST Protocol
