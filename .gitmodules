@@ -1,0 +1,3 @@
+[submodule "content/sync-gateway-alpha"]
+	path = content/sync-gateway-alpha
+	url = https://github.com/couchbaselabs/sync_gateway.wiki.git
